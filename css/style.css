@@ -1,0 +1,29 @@
+.result {
+    margin-bottom: 10px;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  .name {
+    font-weight: bold;
+  }
+  
+  .email {
+    color: #888;
+  }
+  
